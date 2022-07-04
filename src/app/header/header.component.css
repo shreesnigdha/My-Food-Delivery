@@ -1,0 +1,32 @@
+header{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height: 60px;
+  padding: 0;
+  border-bottom: 1px solid rgb(245, 38, 124);
+}
+a{
+  color: rgb(206, 1, 86);
+}
+a:hover{
+  background-color: rgb(245, 38, 124);
+  color: white;
+}
+.container{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+a.logo{
+  margin-top: 10px;
+  font-weight: bold;
+  padding: lem;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+}
+nav ul li a{
+  padding: lem;
+  display: inline-block;
+  margin-top: 15px;
+}
